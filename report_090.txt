@@ -1,0 +1,3 @@
+Accuracy (nm 090°): 0.9073
+Best params: {'svm__C': 10, 'svm__gamma': 'scale'}
+Train samples: 496, Test samples: 248, Subjects: 124
